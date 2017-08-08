@@ -1,3 +1,6 @@
+### 1.2.0 [August 8, 2017]
+* Bump JSON dependency to '>= 1.4.6', '< 3.0' for Ruby 2.4 compatibility
+
 ### 1.1.0 [November 3, 2016]
 * Added support for pipeline API parameter
 
